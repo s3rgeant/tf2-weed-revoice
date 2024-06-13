@@ -7,7 +7,9 @@
 
 # Установка
 Нажми на кнопочку Code, а там дальше на кнопочку Download ZIP.
-Потом папочку custom закинть в Team Fortress 2/tf/
+Потом папочку custom закинь в 
+`Team Fortress 2/tf/`
+
 
 если не жалко, задонатьте
 https://www.donationalerts.com/r/serge4nt
